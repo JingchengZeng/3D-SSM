@@ -120,6 +120,6 @@ python test.py --config configs/3dssm+whu+train.json
 ```
 ## Citation
 
-This project is based on the Haotian Zhang, Keyan Chen, Chenyang Liu, Hao Chen, Zhengxia Zou, and Zhenwei Shi. Cdmamba: Remote sensing image change detection with mamba. arXiv preprint arXiv:2406.04207, 2024. 1, 3, 5.[![arXiv](https://img.shields.io/badge/arXiv-2406.04207-b31b1b.svg)](https://arxiv.org/abs/2406.04207)
+This code is based on the Haotian Zhang, Keyan Chen, Chenyang Liu, Hao Chen, Zhengxia Zou, and Zhenwei Shi. Cdmamba: Remote sensing image change detection with mamba. arXiv preprint arXiv:2406.04207, 2024. 1, 3, 5.[![arXiv](https://img.shields.io/badge/arXiv-2406.04207-b31b1b.svg)](https://arxiv.org/abs/2406.04207)
 
 This project is licensed under the [Apache 2.0 License](LICENSE).
