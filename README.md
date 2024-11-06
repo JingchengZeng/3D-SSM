@@ -2,7 +2,7 @@
 
 ![Framework](https://cdn.jsdelivr.net/gh/LonelyProceduralApe/BlogImage@main/2024/11_8117ee91f006d8850a58bb8ff608b868.png)
 
-[![GitHub stars](https://badgen.net/github/stars/zmoka-zht/CDMamba)](https://github.com/zmoka-zht/CDMamba)
+[![GitHub stars](https://badgen.net/github/stars/JingchengZeng/3D-SSM)](https://github.com/JingchengZeng/3D-SSM)
 
 
 ## Introduction
@@ -120,6 +120,6 @@ python test.py --config configs/3dssm+whu+train.json
 ```
 ## Citation
 
-This project is based on the Haotian Zhang, Keyan Chen, Chenyang Liu, Hao Chen, Zhengxia Zou, and Zhenwei Shi. Cdmamba: Remote sensing image change detection with mamba. arXiv preprint arXiv:2406.04207, 2024. 1, 3, 5.[](https://arxiv.org/abs/2406.04207)
+This project is based on the Haotian Zhang, Keyan Chen, Chenyang Liu, Hao Chen, Zhengxia Zou, and Zhenwei Shi. Cdmamba: Remote sensing image change detection with mamba. arXiv preprint arXiv:2406.04207, 2024. 1, 3, 5.[![arXiv](https://img.shields.io/badge/arXiv-2406.04207-b31b1b.svg)](https://arxiv.org/abs/2406.04207)
 
 This project is licensed under the [Apache 2.0 License](LICENSE).
